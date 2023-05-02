@@ -1,0 +1,17 @@
+shift:сдвиг
+dog:собака
+home:дом
+lake:озеро
+cat:кот
+table:стол
+cup:чашка
+sea:море
+fox:лиса
+sun:солнце
+bug:жук
+tree:дерево
+rain:дождь
+See:Видеть
+Start:Начало
+frog:лягушка
+life:жизнь
